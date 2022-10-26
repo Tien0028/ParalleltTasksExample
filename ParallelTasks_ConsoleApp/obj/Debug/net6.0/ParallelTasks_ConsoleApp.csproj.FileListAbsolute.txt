@@ -1,0 +1,15 @@
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\bin\Debug\net6.0\ParallelTasks_ConsoleApp.exe
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\bin\Debug\net6.0\ParallelTasks_ConsoleApp.deps.json
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\bin\Debug\net6.0\ParallelTasks_ConsoleApp.runtimeconfig.json
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\bin\Debug\net6.0\ParallelTasks_ConsoleApp.dll
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\bin\Debug\net6.0\ParallelTasks_ConsoleApp.pdb
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.AssemblyInfo.cs
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.dll
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\refint\ParallelTasks_ConsoleApp.dll
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.pdb
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ParallelTasks_ConsoleApp.genruntimeconfig.cache
+C:\Users\tiene\Desktop\Software Development\Parallel Programming\Code\ParallelTasks_ConsoleApp\ParallelTasks_ConsoleApp\obj\Debug\net6.0\ref\ParallelTasks_ConsoleApp.dll
